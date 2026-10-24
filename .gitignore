@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+*.kate-swp
+
+# Per-user config files now living alongside their own app's source
+# (Aug 20 2026, per Keith: "all config files would need to be with
+# the own app folder") - map_workshop.py's own settings, never meant
+# to be tracked/shared via git (user-specific preferences, paths,
+# window layout).
+apps/components/Map_Editor/config/
+
+apps/images
+apps/utils
+apps/themes
+*.7z
