@@ -15,3 +15,11 @@ apps/images
 apps/utils
 apps/themes
 *.7z
+
+# PyInstaller output (Windows exe is built by GitHub Actions)
+build/
+dist/
+
+# Build output (made by buildscript.py / GitHub Actions; releases hold the downloads)
+/_internal/
+/*.exe
