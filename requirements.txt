@@ -1,3 +1,11 @@
+Pillow
+PyOpenGL
 PyQt6
+cairosvg
+imageio
+mss
 numpy
-pillow
+pycryptodome
+pygame
+python-lzo
+scipy
