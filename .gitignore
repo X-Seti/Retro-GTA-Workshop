@@ -24,3 +24,6 @@ dist/
 /_internal/
 /*.exe
 .venv/
+/*_dist/
+/Retro_GTA_Workshop
+/Retro_GTA_Workshop.app/
